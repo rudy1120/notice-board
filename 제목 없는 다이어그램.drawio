@@ -1,9 +1,104 @@
-<mxfile host="app.diagrams.net" modified="2023-08-04T00:32:22.723Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" version="21.6.6" etag="5MYhNKJUIvAVKSKeRbki" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-04T05:36:50.825Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="hX9NdnNp4CL8VUzRpOJZ" version="21.6.6" type="github">
   <diagram name="페이지-1" id="5NUwJzSHxeTqC98rrtIz">
-    <mxGraphModel>
+    <mxGraphModel dx="1195" dy="1827" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="DoVb9rncbYnpCz1ly_EE-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="DoVb9rncbYnpCz1ly_EE-1" target="DoVb9rncbYnpCz1ly_EE-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DoVb9rncbYnpCz1ly_EE-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="DoVb9rncbYnpCz1ly_EE-1" target="DoVb9rncbYnpCz1ly_EE-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DoVb9rncbYnpCz1ly_EE-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="DoVb9rncbYnpCz1ly_EE-1" target="DoVb9rncbYnpCz1ly_EE-13">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="360" y="-810" />
+              <mxPoint x="217" y="-810" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DoVb9rncbYnpCz1ly_EE-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="360" y="-955" as="sourcePoint" />
+            <mxPoint x="503" y="-765" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="360" y="-810" />
+              <mxPoint x="503" y="-810" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DoVb9rncbYnpCz1ly_EE-1" value="home" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="-990" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="DoVb9rncbYnpCz1ly_EE-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="DoVb9rncbYnpCz1ly_EE-2" target="DoVb9rncbYnpCz1ly_EE-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DoVb9rncbYnpCz1ly_EE-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="DoVb9rncbYnpCz1ly_EE-2" target="DoVb9rncbYnpCz1ly_EE-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="531" y="-915" />
+              <mxPoint x="566" y="-915" />
+              <mxPoint x="566" y="-905" />
+              <mxPoint x="576" y="-905" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DoVb9rncbYnpCz1ly_EE-2" value="login" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="486" y="-955" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="DoVb9rncbYnpCz1ly_EE-3" value="회원가입" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="426" y="-910" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="DoVb9rncbYnpCz1ly_EE-4" value="ID/PW 찾기" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="536" y="-910" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="DoVb9rncbYnpCz1ly_EE-8" value="MY TICKET" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="586" y="-955" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="DoVb9rncbYnpCz1ly_EE-13" value="콘서트" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="187" y="-780" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="DoVb9rncbYnpCz1ly_EE-14" value="뮤지컬" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="-780" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="DoVb9rncbYnpCz1ly_EE-15" value="연극" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="473" y="-780" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="DoVb9rncbYnpCz1ly_EE-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="DoVb9rncbYnpCz1ly_EE-25" target="DoVb9rncbYnpCz1ly_EE-26">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="360" y="-650" />
+              <mxPoint x="265" y="-650" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DoVb9rncbYnpCz1ly_EE-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="DoVb9rncbYnpCz1ly_EE-25" target="DoVb9rncbYnpCz1ly_EE-28">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="360" y="-650" />
+              <mxPoint x="459" y="-650" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DoVb9rncbYnpCz1ly_EE-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="DoVb9rncbYnpCz1ly_EE-25" target="DoVb9rncbYnpCz1ly_EE-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DoVb9rncbYnpCz1ly_EE-25" value="결제" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="-690" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="DoVb9rncbYnpCz1ly_EE-26" value="신용카드" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="-640" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="DoVb9rncbYnpCz1ly_EE-27" value="무통장입금" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="325" y="-640" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="DoVb9rncbYnpCz1ly_EE-28" value="카카오페이" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="426" y="-640" width="66" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="DoVb9rncbYnpCz1ly_EE-36" value="약관동의" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="-870" width="80" height="20" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
